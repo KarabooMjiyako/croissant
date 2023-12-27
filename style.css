@@ -4,13 +4,11 @@ span{
   text-align: center;
 }
 
-body{
-  font-family: 'Times New Roman';
-  color: black;
-}
 
 .bg{
   background: pink;
+   font-family: 'Times New Roman';
+  color: black;
 }
 .navigation-links{
   display: flex;
