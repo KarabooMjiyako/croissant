@@ -1,0 +1,23 @@
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+body{
+  background: pink;
+}
+.navigation-links{
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+}
+
+a{
+  padding:5px;
+  color: black;
+}
+
+a:hover{
+  color:green;
+}
