@@ -10,6 +10,7 @@ a{
   background: pink;
    font-family: 'Times New Roman';
   color: black;
+  padding: 5px;
 }
 .navigation-links{
   display: flex;
