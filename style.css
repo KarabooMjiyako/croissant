@@ -1,9 +1,9 @@
-h1{
+h1,
+p,
+span{
   text-align: center;
 }
-p{
-  text-align: center;
-}
+
 body{
   background: pink;
 }
@@ -21,3 +21,8 @@ a{
 a:hover{
   color:green;
 }
+
+img{
+  margin: 0 auto;
+}
+  
